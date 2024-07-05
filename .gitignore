@@ -1,0 +1,5 @@
+######## SECRET KEY INFO
+application-SECRET-KEY.properties
+
+######## front-end API key
+.env
