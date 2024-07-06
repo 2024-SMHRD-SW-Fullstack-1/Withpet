@@ -97,7 +97,7 @@
 <br>
 
 ## 📌 서비스 흐름도
-![image]](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/0a8bbed8-fc16-420a-8dff-8f8e333c8d15)
+![image](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/0a8bbed8-fc16-420a-8dff-8f8e333c8d15)
 <br>
 
 ## 📌 ER다이어그램
