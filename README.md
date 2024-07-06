@@ -133,10 +133,10 @@
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
-    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
-    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>    
+    <td align="center"><img src="https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/a8160204-f89a-47d8-b877-2d1ef1b0a6b5" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/f5824022-2668-4e8e-b939-410e75f11efd" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/5193c686-25de-47bb-ab38-31cc54d6d6bf" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/2026b0a1-5e40-4756-a7d2-09647efffec5" width="100" height="100"/></td>    
   </tr>
   <tr>
     <td align="center"><strong>이승환</strong></td>
