@@ -151,6 +151,12 @@
     <td align="center"><b>Backend&Frontend</b></td>
   </tr>
   <tr>
+    <td align="center"><b>전반적인 화면설계 및 구현,DB 설계 및 수정,전반적인 CSS,트러블 슈팅 해결</b></td>
+    <td align="center"><b>로그인,비즈니스 페이지</b></td>
+    <td align="center"><b>챗봇,결제,지도,기획</b></td>
+    <td align="center">회원가입,로그인</b></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/sonic8-8" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/17season" target='_blank'>github</a></td>
