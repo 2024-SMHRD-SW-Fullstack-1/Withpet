@@ -162,7 +162,7 @@
     <td align="center"><a href="https://github.com/sonic8-8" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/ksy2666" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/17season" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/hansol1998" target='_blank'>github</a></td>
   </tr>
 </table>
 
