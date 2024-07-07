@@ -3,16 +3,18 @@
 
 
 ## 👀 서비스 소개
-* 서비스명: 애완동물 관련 상품에 대한 전자상거래 서비스
+* <b>서비스명</b> : 애완동물 관련 상품에 대한 전자상거래 서비스
 
-* 서비스설명
-- 다양한 카테고리의 다양한 상품에 대한 서비스 제공
-- 가게 상세 페이지 및 리뷰 서비스 제공
-- 상품구매를 위한 장바구니 서비스 제공
-- 토스 페이먼츠 api를 활용한 결제 서비스 제공
-- 실시간 상담 기능을 가진 챗봇 서비스 제공
-- 비즈니스 페이지 서비스 제공
 
+* <b>서비스설명</b>
+<ol>
+  <li>다양한 카테고리의 다양한 상품에 대한 서비스 제공</li>
+  <li>가게 상세 페이지 및 리뷰 서비스 제공</li>
+  <li>상품구매를 위한 장바구니 서비스 제공</li>
+  <li>토스 페이먼츠 api를 활용한 결제 서비스 제공</li>
+  <li>실시간 상담 기능을 가진 챗봇 서비스 제공</li>
+  <li>비즈니스 페이지 서비스 제공</li>
+</ol>
 <br>
 
 ## 📅 프로젝트 기간
@@ -107,27 +109,36 @@
 ## 🖥 화면 구성
 
 ### 메인/챗봇
-[![Image 1](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/bb94dcfc-456b-4a71-8367-f38904045638)](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/3ed70ed8-8f2f-4f43-962d-70f8433d9410)
-
+![화면구성메인](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/bfbc83f4-6224-4691-89b4-042a6d872dad)
+![화면구성챗봇](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/86b0256f-10b9-429d-9286-c2b10b7e609f)
 
 ### 회원 가입/ 로그인
-![image](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/3ed70ed8-8f2f-4f43-962d-70f8433d9410)
+![화면구성회원가입](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/6bbcfd52-4dee-4b27-8ca5-ad19b8e3e0e4)
+![화면구성로그인](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/ac09ca54-50bb-4c8c-bd96-dd8107e44322)
 <br>
 
 ### 카테고리 및 상품
-![image](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/bb94dcfc-456b-4a71-8367-f38904045638)
+![화면구성카테고리및상품](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/e799bf9f-8d95-481b-96dc-2fefe625fbf5)
 <br>
 
 ### 인증마크/가게 상세 페이지(상품,리뷰,공지)
-![image](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/8592239a-8bcd-4c99-9ad2-4e5d2fcd9753)
+![화면구성펫과함께자체인증가게](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/d238142e-d3aa-4839-8c10-bac7eadf4411)
+![화면구성가게상세페이지상품](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/1271f4ac-42cc-4180-be04-8c73d497ed65)
+![화면구성가게상세페이지리뷰](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/f83a0e7f-cc32-4ac2-ab25-d4670279bafd)
+![화면구성가게상세페이지위치](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/d57eb3cd-1bf1-4581-b2c2-3b66913dcbd2)
 <br>
 
 ### 장바구니/장바구니 결제/토스 페이먼츠 API 연동 결제/결제 성공
-![image](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/bef5ade9-ec8b-468a-9471-8a04ff9b0953)
+![화면구성장바구니기능](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/1d5a59dd-2b77-4c0e-9582-1167815da9db)
+![화면구성장바구니결제](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/fbd0c695-caa3-4d2c-a10b-64212918b35a)
+![화면구성토스페이먼츠API연동결제기능](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/7ac72054-bde0-4396-85de-1bb4c25974b5)
+![화면구성결제성공](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/46d2f587-069b-4be4-904b-9cf4d0b7f4c3)
 <br>
 
 ### 펫과함께 비지니스 메인/ 회원가입/ 가게 정보 등록
-![image](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/2ae278d6-5bfe-48e5-9e36-c0f8caf471d0)
+![화면구성펫과함께비지니스페이지](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/d3c58582-2b88-44e8-8c25-806c982af12d)
+![화면구성펫과함께비지니스회원가입](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/35173af7-fa53-4282-8724-ef5d00080e5d)
+![화면구성펫과함께비즈니스 가게 정보 등록](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/e546d983-8fcb-4d29-8da6-ecc30c6b17e7)
 <br>
 
 ## 👨‍👩‍👦‍👦 팀원 역할
