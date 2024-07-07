@@ -107,10 +107,7 @@
 ## 🖥 화면 구성
 
 ### 메인/챗봇
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/a310385f-606f-43f1-8568-f832aac6676b" alt="Image 1" style="margin-right: 10px;">
-  <img src="https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/3ed70ed8-8f2f-4f43-962d-70f8433d9410" alt="Image 2" style="margin-right: 10px;">
-</div>
+[![Image 1](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/bb94dcfc-456b-4a71-8367-f38904045638)](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/3ed70ed8-8f2f-4f43-962d-70f8433d9410)
 
 
 ### 회원 가입/ 로그인
