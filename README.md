@@ -124,8 +124,8 @@
 ### 인증마크/가게 상세 페이지(상품,리뷰,공지)
 ![화면구성펫과함께자체인증가게](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/d238142e-d3aa-4839-8c10-bac7eadf4411)
 ![화면구성가게상세페이지상품](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/1271f4ac-42cc-4180-be04-8c73d497ed65)
-![화면구성가게상세페이지리뷰](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/f83a0e7f-cc32-4ac2-ab25-d4670279bafd)
 ![화면구성가게상세페이지위치](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/d57eb3cd-1bf1-4581-b2c2-3b66913dcbd2)
+![화면구성가게상세페이지리뷰](https://github.com/2024-SMHRD-SW-Fullstack-1/Withpet/assets/148773549/f83a0e7f-cc32-4ac2-ab25-d4670279bafd)
 <br>
 
 ### 장바구니/장바구니 결제/토스 페이먼츠 API 연동 결제/결제 성공
